@@ -5,4 +5,4 @@ Included apps:
 - Tic Tac Toe
 - Matching Game
 
-You can open and modify it in the MIT App Inventor Website.
+You can open and modify it in the https://appinventor.mit.edu/.
