@@ -1,4 +1,4 @@
-MIT App Inventor Apps
+# MIT App Inventor Apps
 
 Included apps:
 - Quiz Game
